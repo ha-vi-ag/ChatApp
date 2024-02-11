@@ -1,0 +1,30 @@
+{
+  "name": "chat-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ha-vi-ag/ChatApp.git"
+  },
+  "keywords": [
+    "real",
+    "time",
+    "chat",
+    "application"
+  ],
+  "author": "Harshit Agrawal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ha-vi-ag/ChatApp/issues"
+  },
+  "homepage": "https://github.com/ha-vi-ag/ChatApp#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "nodemon": "^3.0.3"
+  }
+}
